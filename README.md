@@ -11,6 +11,7 @@
 - **房间信息查询**：通过 `get_room(room_id)` 工具，输入斗鱼房间ID，获取详细房间信息（包括头像、分区、主播、状态、热度等）。
 - **关键词搜索房间**：通过 `search_rooms(keyword)` 工具，输入关键词，搜索相关斗鱼房间。
 - **Markdown 表格输出**：所有信息均以美观的 Markdown 表格形式返回，支持图片展示。
+![image](https://github.com/user-attachments/assets/f95d1a69-00b1-41ae-bf7d-f0012eb30fd4)
 
 ## 安装方法
 
@@ -21,7 +22,7 @@
 ### 安装步骤
 1. 克隆本仓库：
    ```bash
-   git clone <你的仓库地址>
+   git clone https://github.com/LokerL/douyu-mcp-py.git
    cd douyu-mcp-py
    ```
 2. 安装依赖：
